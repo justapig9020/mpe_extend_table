@@ -1,6 +1,6 @@
-# mpe-extend-table
+# mpe_extend_table
 
-mpe-extend-table is a Pandoc Lua filter that adds support for [Markdown Preview Enhanced (MPE)'s extended table syntax](https://shd101wyy.github.io/markdown-preview-enhanced/#/markdown-basics?id=table) in Pandoc workflows.
+mpe_extend_table is a Pandoc Lua filter that adds support for [Markdown Preview Enhanced (MPE)'s extended table syntax](https://shd101wyy.github.io/markdown_preview_enhanced/#/markdown_basics?id=table) in Pandoc workflows.
 
 ## Features
 
